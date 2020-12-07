@@ -1,11 +1,15 @@
+""""
+
 Name:		problem2.py
-Purpose:	compute the temperature in celsius to fahrenheit and compute it to the user.
+Purpose: Compute the number of popeyes chicken pieces each student and the teacher will get and output it to the user.
 
 Author:	Wang.J
 
 Created:	date in 07/12/2020
 
-print("*** Welcome to the popeyes chicken piece distributer ***")
+"""
+
+print(" *** Welcome to the popeyes chicken piece distributer *** ")
 
 # get the number of students and popeyes chicken pieces from the UserWarning
 students = int(input("Enter the number of students: "))
