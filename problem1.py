@@ -1,5 +1,5 @@
 Name:		problem1.py
-Purpose:	compute temperature in celsius to fahrenheit and compute it to the user.
+Purpose:	compute the temperature in celsius to fahrenheit and compute it to the user.
 
 Author:	Wang.J
 
